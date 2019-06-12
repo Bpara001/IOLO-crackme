@@ -45,3 +45,7 @@ bomblab
 2.paper
 3.P@s$wOrd (case sensitive)
 4.six numbers : where first value is greater than 0. and then adds to it(loop)
+
+
+!
+This document is to show my take on the assignment we had. Please do not simply copy. I did not create this lab. Learning purpose only. 
